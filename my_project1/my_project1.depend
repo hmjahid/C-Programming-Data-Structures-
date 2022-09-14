@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638634093 source:/home/mdjahidhasan/JAHID/C Programming/Neso Academy/my_project1/add.c
+
+1638636170 source:/home/mdjahidhasan/JAHID/C Programming/Neso Academy/my_project1/main.c
+	<stdio.h>
+	<stdlib.h>
+
